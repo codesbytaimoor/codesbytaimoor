@@ -48,7 +48,7 @@
  
  <br />
 
-![LeetCode Stats](https://leetcode.card.workers.dev/taimoor-pro?theme=dark&font=&extension=null?ext=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/taimoor-pro?theme=dark&font=&extension=activity&width=1000)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taimoor-pro&theme=one-dark)](https://github.com/taimoor-pro/github-readme-activity-graph)
 
 
