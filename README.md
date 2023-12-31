@@ -50,6 +50,8 @@
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=taimoor-pro&theme=one-dark)](https://github.com/taimoor-pro/github-readme-activity-graph)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/taimoor-pro?theme=dark&font=&extension=null)
+
 [twitter]: https://twitter.com/taimoornawaz
 [instagram]: https://instagram.com/taimoornawaz/
 [linkedin]: https://www.linkedin.com/in/taimoornawaz/
