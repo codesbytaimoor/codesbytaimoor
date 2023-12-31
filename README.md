@@ -40,21 +40,21 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; gap: 10px;">
 
-  <div style="width: 49%;">
+  <div style="width: 50%;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoor-pro&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width="100%" />
   </div>
 
-  <div style="width: 49%;">
+  <div style="width: 50%;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-pro&theme=radical"  width="100%" />
   </div>
 
-  <div style="width: 49%;">
+  <div style="width: 50%;">
     <img align="center" src="https://leetcode.card.workers.dev/taimoor-pro?theme=dark&font=&extension=null"  width="100%" />
   </div>
 
-  <div style="width: 49%;">
+  <div style="width: 50%;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-pro&layout=donut"  width="100%" />
   </div>
 
