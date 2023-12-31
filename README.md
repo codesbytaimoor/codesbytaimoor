@@ -40,12 +40,12 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<p>
+<div style="display-flex">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoor-pro&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=49% />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-pro&theme=radical"  width=49% />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-pro&layout=donut"  width=49%  />
 <img align="center" src="https://leetcode.card.workers.dev/taimoor-pro?theme=dark&font=&extension=null"  width=49% />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-pro&layout=donut"  width=29%  />
+</div>
 
  <br />
 
