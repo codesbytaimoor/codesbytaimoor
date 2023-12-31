@@ -1,6 +1,6 @@
 # Hello, I'm Taimoor Nawaz 
 
-## || Programmer, Hardware Designer, Full Stack Developer, Software Engineer ||
+## || Programmer, Problem Solver, Full Stack Developer, Software Engineer ||
 
 <div>
 
