@@ -43,9 +43,9 @@
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=taimoor-pro&count_private=true&show_icons=true&theme=radical&&include_all_commits=true" width=49% />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-pro&theme=radical"  width=49% />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-pro&layout=donut"  width=49% />
 </p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=taimoor-pro)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-pro&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
  
