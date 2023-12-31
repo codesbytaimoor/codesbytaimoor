@@ -40,6 +40,8 @@
 
 
 ## &#x1f4c8; GitHub Stats
+
+# Note: Graph working in prograss...
 <div style="display: flex; gap: 10px;">
 
   <div style="width: 40%;">
