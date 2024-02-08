@@ -51,15 +51,18 @@
   <div style="width: 40%;">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoor-pro&theme=radical"  width="100%" />
   </div>
+  <!---
  <br />
   <div style="width: 40%;">
     <img align="center" src="https://leetcode.card.workers.dev/taimoor-pro?theme=dark&font=&extension=null"  width="100%" />
   </div>
  <br />
+ -->
+ <!---
  <div style="width: 40%;">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoor-pro&layout=donut"  width="100%" />
  </div>
-
+-->
 </div>
 
 
