@@ -22,6 +22,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=taimoor-pro&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taimoor-pro&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=taimoor-pro&label=Taimoor%20Profile%20Views&color=0&icon=4&pretty=true)](https://visitcount.itsvg.in)
