@@ -2,6 +2,18 @@
 
 <a href="https://www.linkedin.com/in/syedtaimoor/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtaimoor" height="30" width="40" /></a>
 
+<!-- &nbsp; -->
+
+<!-- <a href="https://x.com/syedtaimoor" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" alt="syedtaimoor" height="30" width="30" /></a>
+
+&nbsp; -->
+
+<!-- <a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+&nbsp; -->
+
+<!-- <a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+&nbsp; -->
+
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=codesbytaimoor.codesbytaimoor)
 
 I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
@@ -146,6 +158,25 @@ That's why I like to make things that make a difference.
 
 [![wakatime](https://wakatime.com/badge/user/40b888ea-417b-423d-ac6c-4ce5849a746a.svg)](https://wakatime.com/@40b888ea-417b-423d-ac6c-4ce5849a746a) <b>&nbsp; coded, since JAN 22 2021</b>
 
+<!-- 📊 <b>This Week I Spent My Time On</b> -->
+
+<!-- START_SECTION:waka-->
+
+<!-- ```text
+Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 %
+Java         2 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 %
+JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+``` -->
+
+<!--END_SECTION:waka -->
+
+<!-- <details>
+  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
+  <br/>
+</details> -->
+
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
@@ -177,3 +208,17 @@ That's why I like to make things that make a difference.
 ## 📕Latest Blog Posts
 
 [Comming Soon...]
+
+<!-- - [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-syedtaimoor)
+- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
+- [Python Programming: A Beginner’s Guide](https://dev.to/aswinbarath/python-programming-a-beginner-s-guide-k8n)
+- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351) -->
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- - [Learning in Public and Getting Opportunities](https://dev.to/aswinbarath/learning-in-public-and-getting-opportunities-4i92)
+- [Introduction to programming](https://dev.to/aswinbarath/introduction-to-programming-31od)
+- [Accessing Firebase services](https://dev.to/aswinbarath/accessing-firebase-services-4mn9)
+- [Firebase core services](https://dev.to/aswinbarath/firebase-core-services-4hkl)
+- [What is Firebase?](https://dev.to/aswinbarath/what-is-firebase-3f35) -->
+<!-- BLOG-POST-LIST:END -->
