@@ -29,7 +29,7 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Junior Software Engineering Professional**.
-- 
+
 - 🔭 I’m currently working on [Feature Base Node + Typescript](https://github.com/codesbytaimoor/Express-Server-Feature-based-Structure-design-pattern.git) Template.
 <!-- - 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/) -->
 - 💬 Ask me about anything, I am happy to help
