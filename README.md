@@ -188,6 +188,8 @@ I have a keen eye for detail and a deep love for creating things that matter. Fo
 
 
 
+<html>
+<head> 
 <style>
   body {
     user-select: none;  /* Prevent text selection */
@@ -198,6 +200,8 @@ I have a keen eye for detail and a deep love for creating things that matter. Fo
     event.preventDefault();  // Disable right-click
   });
 </script>
+<head/>
+<html>
 
 
 
