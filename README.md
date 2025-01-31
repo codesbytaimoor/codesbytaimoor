@@ -116,7 +116,9 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
     <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging--Face-FFD54F.svg?logo=huggingface&logoColor=black"></a>
     <a href="#"><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991.svg?logo=openai&logoColor=white"></a>
+    <a href="#"><img alt="DeepSeek AI" src="https://img.shields.io/badge/DeepSeek--AI-0052CC.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABF0lEQVR42q1TMW7CQBCdYhKFrCQKG7AbyHLtZg5SpT+A2hQThwoLCwXAj2AVbAxaCxuAXHY3lprH1DEz20PZlhltziTPX7eWYktdeRcdgDUYRXLa4tTFuWjVQDdgoq2Buxk6AcZ21hbcZnXvYZAI1RDbNZdc5gw5+wMhghohHEb3XMB1whEXNdbeAi5MwkhVixKGHMj8pPYxvXCGxWm93TYhg9cZd6AD+dI1qXnZpVqkN1rlcAe7TiLZd8VxpgEddxDWQBOEZHiGYYFCsAfdP5CrBk4djDa54mRVAnUmPU0vFhoXG26c9vAP/Y7MO5PL5CUAAAAAElFTkSuQmCC&logoColor=white"></a>
 </p>
+
 
 ### 🗄️ Databases and Cloud Hosting
 
