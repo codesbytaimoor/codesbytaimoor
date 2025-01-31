@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/syedtaimoor/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtaimoor" height="30" width="40" /></a>
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=codesbytaimoor.codesbytaimoor)
+## Glad to see you here! &nbsp;  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 I am a full-stack software engineer and writer with a passion for programming, reading, writing, and speaking.
 
