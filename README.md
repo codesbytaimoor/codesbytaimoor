@@ -2,27 +2,16 @@
 
 <a href="https://www.linkedin.com/in/syedtaimoor/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtaimoor" height="30" width="40" /></a>
 
-<!-- &nbsp; -->
-
-<!-- <a href="https://x.com/syedtaimoor" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" alt="syedtaimoor" height="30" width="30" /></a>
-
-&nbsp; -->
-
-<!-- <a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp; -->
-
-<!-- <a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp; -->
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=codesbytaimoor.codesbytaimoor)
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+I am a full-stack software engineer and writer with a passion for programming, reading, writing, and speaking.
 
-I have been creating applications since university, with extensive experience in building a wide variety of programs. With a proven ability to implement ideas into practical, scalable solutions, I confidently face any challenge that arises. My expertise is further enhanced by my experience working on numerous team projects, where collaboration and problem-solving were key. In my projects, I’ve focused on building unique, large-scale applications that push the boundaries of what’s possible.
+Since university, I have been building applications across various domains, gaining hands-on experience in developing practical and scalable solutions. I enjoy turning ideas into real-world applications and solving complex challenges with a logical approach. Through my work on team projects, I have strengthened my ability to collaborate, communicate, and contribute to large-scale software systems.
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+With the rapid advancements in AI and machine learning, I actively explore and implement modern technologies, including language models and automation tools, to improve efficiency and innovation in software development. My goal is to build software that is not only functional but also impactful.
 
-That's why I like to make things that make a difference.
+I have a keen eye for detail and a deep love for creating things that matter. For me, technology is a tool to solve real problems and make a meaningful difference in the world.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -161,24 +150,6 @@ That's why I like to make things that make a difference.
 
 [![wakatime](https://wakatime.com/badge/user/40b888ea-417b-423d-ac6c-4ce5849a746a.svg)](https://wakatime.com/@40b888ea-417b-423d-ac6c-4ce5849a746a) <b>&nbsp; coded, since JAN 22 2021</b>
 
-<!-- 📊 <b>This Week I Spent My Time On</b> -->
-
-<!-- START_SECTION:waka-->
-
-<!-- ```text
-Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 %
-Java         2 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 %
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-``` -->
-
-<!--END_SECTION:waka -->
-
-<!-- <details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
-  <br/>
-</details> -->
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
@@ -211,17 +182,3 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 ## 📕Latest Blog Posts
 
 [Comming Soon...]
-
-<!-- - [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-syedtaimoor)
-- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswinbarath/python-programming-a-beginner-s-guide-k8n)
-- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351) -->
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- - [Learning in Public and Getting Opportunities](https://dev.to/aswinbarath/learning-in-public-and-getting-opportunities-4i92)
-- [Introduction to programming](https://dev.to/aswinbarath/introduction-to-programming-31od)
-- [Accessing Firebase services](https://dev.to/aswinbarath/accessing-firebase-services-4mn9)
-- [Firebase core services](https://dev.to/aswinbarath/firebase-core-services-4hkl)
-- [What is Firebase?](https://dev.to/aswinbarath/what-is-firebase-3f35) -->
-<!-- BLOG-POST-LIST:END -->
