@@ -182,3 +182,31 @@ I have a keen eye for detail and a deep love for creating things that matter. Fo
 ## 📕Latest Blog Posts
 
 [Comming Soon...]
+
+
+
+
+
+
+<style>
+  body {
+    user-select: none;  /* Prevent text selection */
+  }
+</style>
+<script>
+  document.addEventListener("contextmenu", function (event) {
+    event.preventDefault();  // Disable right-click
+  });
+</script>
+
+
+
+
+## License  
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International** (CC BY-NC-ND 4.0).  
+
+You are free to share the content **only with attribution** and **without modification**, but commercial use is prohibited.  
+
+For full details, see [Creative Commons License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
