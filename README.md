@@ -1,4 +1,4 @@
-# Welcome to [Syed Taimoor](https://syedtaimoor.me/) profile! <a href="https://www.syedtaimoor.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Syed Taimoor](https://syedtaimoor.com/) profile! <a href="https://www.syedtaimoor.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/syedtaimoor/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedtaimoor" height="30" width="40" /></a>
 
